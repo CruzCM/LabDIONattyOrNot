@@ -1,20 +1,17 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Capa
+![Página 1](pag1.png)
 
-## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+# Bem-vindo ao Futuro: As IAs Generativas no Nosso Dia a Dia
+![Página 2](pag2.png)
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+# Desvendando as IAs Generativas
+![Página 3](pag3.png)
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+# IAs Generativas no Cotidiano
+![Página 4](pag4.png)
 
-## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+# Moldando o Futuro com IAs Generativas
+![Página 5](pag5.png)
 
-[LINK PARA O E-BOOK AQUI]()
-
-## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+# O Futuro Está Aqui: Reflexões Finais
+![Página 6](pag6.png)
